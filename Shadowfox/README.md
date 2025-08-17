@@ -1,4 +1,4 @@
-# Shadowfox Amazon Clone
+#  Amazon Clone
 
 A modern, responsive Amazon clone web app built with HTML, CSS, and JavaScript.
 
